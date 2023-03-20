@@ -13,4 +13,5 @@
 - WebCam: Logitech C525
 
 ![Pic](https://github.com/iskakfatoni/ASROCK-B450-STEEL-LEGEND_RYZEN-7-1800X_SAPPHIRE-NITRO-RX580-8GB_OPENCORE/blob/main/PIC/Ryzen%207%201800X.jpg)
+![Pic](https://github.com/iskakfatoni/ASROCK-B450-STEEL-LEGEND_RYZEN-7-1800X_SAPPHIRE-NITRO-RX580-8GB_OPENCORE/blob/main/PIC/Asrock%20B450%20Steel%20Legeng.jpg)
 ![Pic](https://github.com/iskakfatoni/ASUS_Z270_TUF_MARK1_SAPPHIRE_NITRO_RX580_6GB_HACKINTOSH_OPENCORE/blob/main/PIC/SAPPHIRE_NITRO_RX580_8GB.jpeg)
