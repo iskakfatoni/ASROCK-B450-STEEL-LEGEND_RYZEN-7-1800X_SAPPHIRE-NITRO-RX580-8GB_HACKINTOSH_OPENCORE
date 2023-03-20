@@ -6,8 +6,8 @@
 - Monitor : Samsung Curved 24"
 - RAM : 16Gb ddr4 3200 Team TForce RGB
 - Graphics : Saphire Nitro+ RX580 8Gb
-- Sound : 
-- Ethernet : 
+- Sound : Realtek ALC 892
+- Ethernet : Realtek RTL811/8168/8411
 - Wirelles : TP-Link TP-WDN4800 (not work yet)
 - MacOS Storage : 512Gb SSD nvme (via adapter pcie to nvme)
 - WebCam: Logitech C525
