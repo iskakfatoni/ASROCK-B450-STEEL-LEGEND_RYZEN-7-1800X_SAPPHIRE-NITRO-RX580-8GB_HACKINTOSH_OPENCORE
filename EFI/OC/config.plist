@@ -29,8 +29,6 @@
 		<array/>
 		<key>Quirks</key>
 		<dict>
-			<key>EnableForAll</key>
-			<false/>
 			<key>FadtEnableReset</key>
 			<false/>
 			<key>NormalizeHeaders</key>
@@ -64,8 +62,6 @@
 			<key>DisableVariableWrite</key>
 			<false/>
 			<key>DiscardHibernateMap</key>
-			<false/>
-			<key>EnableForAll</key>
 			<false/>
 			<key>EnableSafeModeSlide</key>
 			<true/>
@@ -368,7 +364,7 @@
 				<key>MinKernel</key>
 				<string>19.0.0</string>
 				<key>Replace</key>
-				<data>ugYAAAAA</data>
+				<data>uggAAAAA</data>
 				<key>ReplaceMask</key>
 				<data>//////8A</data>
 				<key>Skip</key>
@@ -398,7 +394,7 @@
 				<key>MinKernel</key>
 				<string>21.0.0</string>
 				<key>Replace</key>
-				<data>ugYAAACQ</data>
+				<data>uggAAACQ</data>
 				<key>ReplaceMask</key>
 				<data>////////</data>
 				<key>Skip</key>
@@ -939,12 +935,10 @@
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>Acidanthera\GoldenGate</string>
+			<string>Acidanthera\Chardonnay</string>
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
-			<true/>
-			<key>SkipCustomEntryCheck</key>
 			<true/>
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
@@ -1540,9 +1534,11 @@
 			<key>ReloadOptionRoms</key>
 			<false/>
 			<key>RequestBootVarRouting</key>
-			<true/>
+			<false/>
 			<key>ResizeGpuBars</key>
 			<integer>-1</integer>
+			<key>ResizeUsePciRbIo</key>
+			<false/>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
